@@ -1,0 +1,9 @@
+name: frr
+os: Debian, Ubuntu, FreeBSD
+os_family: Debian, FreeBSD
+version: 0.5.0
+release: 1
+minimum_version: 2017.7
+summary: frr formula
+description: Install and configure FRRouting suite
+top_level_dir: frr
